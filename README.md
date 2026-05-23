@@ -2,7 +2,7 @@
 
 # Nacho Tello
 
-###Full Stack JavaScript Developer
+### Full Stack Developer
 
 Building scalable web applications with React, TypeScript, Node.js, and modern development workflows.
 
