@@ -2,29 +2,29 @@
 
 # Nacho Tello
 
-### Full Stack Developer
+###Full Stack JavaScript Developer
 
-Desarrollo aplicaciones web modernas con foco en escalabilidad, experiencia de usuario y buenas prácticas de ingeniería.
+Building scalable web applications with React, TypeScript, Node.js, and modern development workflows.
 
 </div>
 
 ---
 
-## Sobre mí
+## About Me
 
-Descubrí la programación en 2022 y desde entonces se convirtió en una de mis mayores pasiones.
+I discovered programming in 2022, and it quickly became one of my greatest passions.
 
-Lo que comenzó como una simple curiosidad terminó transformándose en una actividad que disfruto cada día. Me apasiona construir productos digitales, resolver problemas complejos y aprender constantemente nuevas tecnologías y metodologías de trabajo.
+What started as simple curiosity evolved into something I genuinely enjoy every day. I’m passionate about building digital products, solving complex problems, and continuously learning new technologies and development methodologies.
 
-A lo largo de este camino he desarrollado proyectos Full Stack trabajando tanto en frontend como en backend, diseñando interfaces modernas, desarrollando APIs robustas y gestionando bases de datos para crear aplicaciones completas de principio a fin.
+Throughout this journey, I have worked on Full Stack projects across both frontend and backend development, designing modern user interfaces, building robust APIs, and managing databases to create complete end-to-end applications.
 
-Actualmente continúo profundizando mis conocimientos en arquitectura de software, desarrollo backend escalable, herramientas potenciadas por Inteligencia Artificial y buenas prácticas de desarrollo profesional.
+Today, I continue expanding my knowledge in software architecture, scalable backend development, AI-powered tools, and professional engineering practices.
 
-Fuera del mundo tecnológico disfruto del mate, el rock y el folklore argentino. Muchas veces las mejores ideas para un proyecto aparecen acompañado de una buena playlist y unos mates mientras programo.
+Outside of technology, I enjoy drinking mate, listening to rock music, and Argentine folk music. Some of my best project ideas come while coding with a good playlist and a few rounds of mate.
 
 ---
 
-## Tecnologías y herramientas
+## Technologies & Tools
 
 ### Frontend
 
@@ -38,7 +38,7 @@ Fuera del mundo tecnológico disfruto del mate, el rock y el folklore argentino.
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase" />
 </p>
 
-**También trabajo con:**
+**Additional experience with:**
 
 - SQL
 - Strapi
@@ -46,27 +46,27 @@ Fuera del mundo tecnológico disfruto del mate, el rock y el folklore argentino.
 - JWT
 - Bcrypt
 
-### Herramientas
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,railway,eslint" />
 </p>
 
-**Otras herramientas utilizadas habitualmente:**
+**Other tools I regularly use:**
 
 - Prettier
-- CI/CD
-- Gestión de versiones con Git
-- Diseño de APIs REST
-- Deploy y hosting de aplicaciones
+- CI/CD workflows
+- Git-based version control
+- REST API design
+- Application deployment and hosting
 
 ---
 
-## Inteligencia Artificial aplicada al desarrollo
+## AI-Assisted Development
 
-Utilizo herramientas de IA como aceleradores de productividad, investigación y generación de soluciones, manteniendo siempre el criterio técnico y la calidad del código como prioridad.
+I use AI tools to enhance productivity, accelerate research, and improve solution design while always prioritizing technical judgment, code quality, and maintainability.
 
-**Herramientas que utilizo regularmente:**
+**Tools I regularly work with:**
 
 - Cursor
 - Claude Code
@@ -82,25 +82,26 @@ Utilizo herramientas de IA como aceleradores de productividad, investigación y 
 
 ---
 
-## Principios de trabajo
 
-- Código limpio y mantenible
-- Arquitecturas escalables
-- Buenas prácticas de desarrollo
-- APIs bien diseñadas y documentadas
-- Enfoque en experiencia de usuario
-- Automatización de procesos repetitivos
-- Aprendizaje continuo
-- Uso responsable y estratégico de herramientas de IA
+## Engineering Principles
+
+- Clean and maintainable code
+- Scalable architectures
+- Development best practices
+- Well-designed and documented APIs
+- User-centered thinking
+- Process automation
+- Continuous learning
+- Responsible and strategic use of AI tools
 
 ---
 
-## Actualmente
+## Currently
 
-- Construyendo aplicaciones Full Stack con React, TypeScript y Node.js
-- Profundizando conocimientos en NestJS y arquitectura backend
-- Explorando nuevas formas de desarrollo asistido por IA
-- Mejorando procesos de desarrollo, testing y despliegue
+- Building Full Stack applications with React, TypeScript, and Node.js
+- Deepening my expertise in NestJS and backend architecture
+- Exploring modern AI-assisted development workflows
+- Improving development, testing, and deployment processes
 
 ---
 
@@ -113,8 +114,7 @@ Utilizo herramientas de IA como aceleradores de productividad, investigación y 
 
 ---
 
-
-## Contacto
+## Contact
 
 <p align="left">
   <a href="www.linkedin.com/in/ignacio-tello-33249b280">LinkedIn</a> •
