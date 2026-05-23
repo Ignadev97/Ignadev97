@@ -7,11 +7,8 @@
 
 <div align="center">
 
-# Nacho Tello
 
-### Full Stack Developer
-
-Building scalable web applications with React, TypeScript, Node.js, and modern development workflows.
+### **Building scalable web applications with React, TypeScript, Node.js, and modern development workflows.**
 
 </div>
 
