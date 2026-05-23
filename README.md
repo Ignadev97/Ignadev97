@@ -117,9 +117,9 @@ Utilizo herramientas de IA como aceleradores de productividad, investigación y 
 ## Contacto
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO">LinkedIn</a> •
-  <a href="https://tuportfolio.com">Portfolio</a> •
-  <a href="mailto:tuemail@email.com">Email</a>
+  <a href="www.linkedin.com/in/ignacio-tello-33249b280">LinkedIn</a> •
+  <a href="https://portfolionachotello.netlify.app/en">Portfolio</a> •
+  <a href="mailto:ignacio.tello.dev@gmail.com">Email</a>
 </p>
 
 ---
